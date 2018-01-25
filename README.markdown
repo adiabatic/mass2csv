@@ -5,7 +5,7 @@
 # Usage
 
 ```
-mass2csv [filename]
+mass2csv filename
 ```
 
 `filename` can either be the `export.xml` or the entire `export.zip`. Note that it won’t know what to do with files formatted like `export_cda.xml`.
