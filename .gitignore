@@ -1,2 +1,4 @@
 /mass2csv
-/export*.zip
+export*.zip
+*.csv
+*.xlsx
