@@ -1,4 +1,4 @@
-// This file is in the public domain.
+// SPDX-License-Identifier: Unlicense
 
 package main
 
